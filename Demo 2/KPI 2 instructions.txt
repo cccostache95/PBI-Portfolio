@@ -1,0 +1,7 @@
+1.Va fi implementat un slicer pentru dată (luni, querters (Q) and halves (H) – datele nu vor fi la nivel de zi.
+Când selectăm o luna, KPI market trebuie să fie blank, dar pe ceilalți KPI vom avea valori. Valorile pe KPI
+Market vor apărea doar atunci când selectăm un Q sau H.
+2. Butoane pentru currency – pentru a putea alege între RON și EUR
+3. Last refersh date – se va afișa data ultimului refresh.
+4. Titlul tabelului se va schimba dinamic, în funcție de selecția din Slicerul pentru dată (precizat la pct. 1)
+5. Design creativ al paginii.
