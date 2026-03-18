@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+1,Espresso,Coffee,2.5
+2,Cappuccino,Coffee,3.5
+3,Latte,Coffee,4
+4,Flat White,Coffee,4.2
+5,Americano,Coffee,3
+6,Croissant,Food,3
+7,Muffin,Food,2.8
+8,Sandwich,Food,5
+9,Iced Latte,Cold Drinks,4.5
+10,Lemonade,Cold Drinks,3.8
